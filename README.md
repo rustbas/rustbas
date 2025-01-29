@@ -9,7 +9,7 @@ I climbed Kazbek (5033 m, 2B category) and in 2021, Elbrus (5642 m, 2A category)
 
 ### Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rustbas)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tools
 
