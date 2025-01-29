@@ -1,13 +1,13 @@
-### Обо мне
+### About
 
-Меня зовут Рустам.
-Люблю Linux и все, что связано с ним. 
-Предпочитаю командную строку графическим
-приложениям. 
-Также увлекаюсь математической статистикой и машинным обучением. 
+    I love Linux and everything related to it. I prefer the command line to graphical applications.
+    Also, I am interested in mathematical statistics and machine learning.
+    In my free time, if possible, I go in for sports tourism, in particular, mountain tourism. In 2019,
+    I climbed Kazbek (5033 m, 2B category) and in 2021, Elbrus (5642 m, 2A category).
 
-### Мои контакты
+### Contacts
 
-### Области интересов и навыков
+### Languages
 
+### Tools
 
