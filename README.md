@@ -7,7 +7,7 @@ I climbed Kazbek (5033 m, 2B category) and in 2021, Elbrus (5642 m, 2A category)
 
 ### Contacts
 
-![Static Badge](https://img.shields.io/badge/LinkedIn-blue)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-blue)](www.linkedin.com/in/rustam-basyrov-978b78286)
 
 - LinkedIn
 - Email
