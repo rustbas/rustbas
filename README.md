@@ -21,10 +21,12 @@ I climbed Kazbek (5033 m, 2B category) and in 2021, Elbrus (5642 m, 2A category)
 ### Featured repositories (not necessarily finished)
 
 1. [My dotfiles](https://github.com/rustbas/dotfilesV2)
-
-    Config files for my stack: i3+zsh+neovim
+    - Config files for my stack: i3+zsh+neovim
+2. [N-body visualization](https://github.com/rustbas/n-body-visualization)
+    - C-program for solving N body problem[^1]
 
 ### Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rustbas&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook,html&langs_count=8&layout=pie&theme=transparen)](https://github.com/anuraghazra/github-readme-stats)
 
+[^1]: [Wikipedia](https://en.wikipedia.org/wiki/N-body_problem)
