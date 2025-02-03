@@ -21,6 +21,7 @@ I climbed Kazbek (5033 m, 2B category) and in 2021, Elbrus (5642 m, 2A category)
 ### Featured repositories (not necessarily finished)
 
 1. [My dotfiles](https://github.com/rustbas/dotfilesV2)
+
     Config files for my stack: i3+zsh+neovim
 
 ### Languages
