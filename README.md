@@ -11,13 +11,14 @@ I climbed Kazbek (5033 m, 2B category) and in 2021, Elbrus (5642 m, 2A category)
 [![Email](https://img.shields.io/badge/Email-blue)](mailto:hrustbas@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-blue)](https://t.me/wtukatyr)
 
+### Tools
+
+- **Data analisys**: numpy, pandas, SQL, etc.
+- **Data visualization**:  datalens, superset, seaborn, matplotlib.
+- **Linux administration**: chmod, chown, ps, iptables, etc.
+- **Common workflow tools**: bash/zsh, vim/neovim, git, docker, snakemake.
+
 ### Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rustbas&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook,html&langs_count=8&layout=pie&theme=transparen)](https://github.com/anuraghazra/github-readme-stats)
 
-### Tools
-
-- Data analisys: numpy, pandas, SQL, etc.
-- Data visualization:  datalens, superset, seaborn, matplotlib.
-- Linux administration: chmod, chown, ps, iptables, etc.
-- Common workflow tools: bash/zsh, vim/neovim, git, docker, snakemake.
