@@ -17,3 +17,7 @@ I climbed Kazbek (5033 m, 2B category) and in 2021, Elbrus (5642 m, 2A category)
 
 ### Tools
 
+- Data analisys: numpy, pandas, SQL, etc.
+- Data visualization:  datalens, superset, seaborn, matplotlib.
+- Linux administration: chmod, chown, ps, iptables, etc.
+- Common workflow tools: bash/zsh, vim/neovim, git, docker, snakemake.
