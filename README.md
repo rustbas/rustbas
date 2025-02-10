@@ -24,7 +24,6 @@ I climbed Kazbek (5033 m, 2B category) and in 2021, Elbrus (5642 m, 2A category)
     - Config files for my stack: i3+zsh+neovim
 2. [Library for region-based memory management](https://github.com/rustbas/region-based-allocation)
     - STB-style library for Region-based memory management
-    - 
 3. [N-body visualization](https://github.com/rustbas/n-body-visualization)
     - C-program for solving N body problem[^1]
 
