@@ -17,6 +17,7 @@ category).
 
 - **Data analisys**: numpy, pandas, SQL, etc.
 - **Data visualization**:  datalens, superset, seaborn, matplotlib.
+- **Programming**: python, C/C++, Haskell, R.
 - **Linux administration**: chmod, chown, ps, iptables, etc.
 - **Common workflow tools**: bash/zsh, vim/neovim, git, docker, snakemake.
 
