@@ -1,6 +1,6 @@
 ### About
 
-I love Linux and everything related to it. I prefer the command line
+IT enthusiast. I prefer the command line
 to graphical applications.  Also, I am interested in mathematical
 statistics and machine learning.  In my free time, if possible, I go
 in for sports tourism, in particular, mountain tourism. In 2019, I
