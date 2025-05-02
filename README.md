@@ -28,6 +28,8 @@ category).
     - STB-style library for Region-based memory management
 3. [N-body visualization](https://github.com/rustbas/n-body-visualization)
     - C-program for solving N-body problem[^1]
+4. [Filetype prediction](https://github.com/rustbas/filetype-prediction/)
+    - Example of using **neural networks** to predict file type by it's signature.
 
 ### Languages
 
