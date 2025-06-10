@@ -28,10 +28,14 @@ technologies and other interesing things.
 1. [My dotfiles](https://github.com/rustbas/dotfilesV2)
     - Config files for my stack: i3+zsh+neovim
 2. [Library for region-based memory management](https://github.com/rustbas/region-based-allocation)
+
+### Programming 
+
+1. [Library for region-based memory management](https://github.com/rustbas/region-based-allocation)
     - STB-style library for Region-based memory management
-3. [N-body visualization](https://github.com/rustbas/n-body-visualization)
-    - C-program for solving N-body problem[^1]
-4. [Filetype prediction](https://github.com/rustbas/filetype-prediction/)
+2. [N-body visualization](https://github.com/rustbas/n-body-visualization)
+    - C-program for solving *N-body problem*[^1]
+3. [Filetype prediction](https://github.com/rustbas/filetype-prediction/)
     - Example of using **neural networks** to predict file type by it's signature.
 
 ## Languages
