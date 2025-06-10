@@ -25,9 +25,19 @@ technologies and other interesing things.
 
 ## Featured repositories (not necessarily finished)
 
+### Common
+
 1. [My dotfiles](https://github.com/rustbas/dotfilesV2)
     - Config files for my stack: i3+zsh+neovim
-2. [Library for region-based memory management](https://github.com/rustbas/region-based-allocation)
+2. [Infogram-bot](https://github.com/rustbas/infogram-bot)
+    - Simple bot for fast identifying chat metadata, for further using it in
+      different services (e.g. **Zabbix, Jenkins, Github Actions**, etc).
+
+### DevOps practices
+
+1. [Disgrant](https://github.com/rustbas/disgrant/)
+2. [Django example app](https://github.com/rustbas/django-example-app)
+3. [Systemd unit example](https://github.com/rustbas/systemd-unit-example/)
 
 ### Programming 
 
