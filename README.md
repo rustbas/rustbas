@@ -24,7 +24,7 @@ technologies and other interesing things.
 - **Data visualization**:  datalens, superset, seaborn, matplotlib.
 - **Common tools**: bash/zsh, vim/neovim, git.
 
-## Featured repositories (not necessarily finished)
+## Featured repositories
 
 ### Common
 
@@ -40,8 +40,17 @@ technologies and other interesing things.
 ### DevOps practices
 
 1. [Disgrant](https://github.com/rustbas/disgrant/)
+    - Deployment VMs via **Vagrant** and configuration via **Ansible**.
+    - Demonstration how speeds up project build with remote compilers.
+    - All configs described in code (*Vagrantfile*, *Ansible playbooks*)
 2. [Django example app](https://github.com/rustbas/django-example-app)
+    - Implementation **CI/CD** pipeline with linters, tests, builds and deploys
+      using GitHub Actions and Jenkins.
+    - Notification via Telegram API and Github Actions.
 3. [Systemd unit example](https://github.com/rustbas/systemd-unit-example/)
+    - Monitoring the state of the target process.
+    - Notification with API with `curl`.
+    - Install script for easy deployment.
 
 ### Programming 
 
