@@ -33,6 +33,9 @@ technologies and other interesing things.
 2. [Infogram-bot](https://github.com/rustbas/infogram-bot)
     - Simple bot for fast identifying chat metadata, for further using it in
       different services (e.g. **Zabbix, Jenkins, Github Actions**, etc).
+3. [Biodocker](https://github.com/rustbas/biodocker/tree/main)
+    - Docker building pipeline, that contains several bioinformatic tools.
+    - Automated building and pushing to DockerHub workflow.
 
 ### DevOps practices
 
