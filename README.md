@@ -9,9 +9,10 @@ technologies and other interesting things.
 
 ## Contacts
 
+- Email: [hrustbas@gmail.com](mailto:hrustbas@gmail.com);
+- Telegram: [@wtukatyr](https://t.me/wtukatyr).
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/rustam-basyrov-978b78286)
-[![Email](https://img.shields.io/badge/Email-blue)](mailto:hrustbas@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-blue)](https://t.me/wtukatyr)
 
 ## Tools
 
