@@ -1,13 +1,11 @@
 ## About
 
-IT enthusiast. I prefer the command line to graphical applications.
-Also, I am interested in mathematical statistics and machine learning.
-In my free time, if possible, I go in for sports tourism, in
-particular, mountain tourism. In 2019, I climbed Kazbek (5033 m, 2B
-category) and in 2021, Elbrus (5642 m, 2A category).
+**IT enthusiast**.
+
+I enjoy with automation, analytics and programming, as well as related areas.
 
 In my free time I [blog](https://t.me/geek_den) about maths,
-technologies and other interesing things.
+technologies and other interesting things.
 
 ## Contacts
 
@@ -20,7 +18,7 @@ technologies and other interesing things.
 - **DevOps**: Github Actions, Jenkins, Vagrant, Ansible, Docker.
 - **Linux administration**: chmod, chown, ps, iptables, etc.
 - **Programming**: python, C/C++, Haskell, R.
-- **Data analisys**: numpy, pandas, SQL, etc.
+- **Data analysis**: numpy, pandas, SQL, etc.
 - **Data visualization**:  datalens, superset, seaborn, matplotlib.
 - **Common tools**: bash/zsh, vim/neovim, git.
 
