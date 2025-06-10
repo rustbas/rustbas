@@ -1,4 +1,4 @@
-### About
+## About
 
 IT enthusiast. I prefer the command line to graphical applications.
 Also, I am interested in mathematical statistics and machine learning.
@@ -9,13 +9,13 @@ category) and in 2021, Elbrus (5642 m, 2A category).
 In my free time I [blog](https://t.me/geek_den) about maths,
 technologies and other interesing things.
 
-### Contacts
+## Contacts
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/rustam-basyrov-978b78286)
 [![Email](https://img.shields.io/badge/Email-blue)](mailto:hrustbas@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-blue)](https://t.me/wtukatyr)
 
-### Tools
+## Tools
 
 - **Data analisys**: numpy, pandas, SQL, etc.
 - **Data visualization**:  datalens, superset, seaborn, matplotlib.
@@ -23,7 +23,7 @@ technologies and other interesing things.
 - **Linux administration**: chmod, chown, ps, iptables, etc.
 - **Common workflow tools**: bash/zsh, vim/neovim, git, docker, snakemake.
 
-### Featured repositories (not necessarily finished)
+## Featured repositories (not necessarily finished)
 
 1. [My dotfiles](https://github.com/rustbas/dotfilesV2)
     - Config files for my stack: i3+zsh+neovim
@@ -34,7 +34,7 @@ technologies and other interesing things.
 4. [Filetype prediction](https://github.com/rustbas/filetype-prediction/)
     - Example of using **neural networks** to predict file type by it's signature.
 
-### Languages
+## Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rustbas&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook,html&langs_count=8&layout=pie&theme=transparen)](https://github.com/anuraghazra/github-readme-stats)
 
