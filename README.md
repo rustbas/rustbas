@@ -29,7 +29,7 @@ technologies and other interesing things.
 ### Common
 
 1. [My dotfiles](https://github.com/rustbas/dotfilesV2)
-    - Config files for my stack: i3+zsh+neovim
+    - Config files for my stack: **i3+bash+neovim**
 2. [Infogram-bot](https://github.com/rustbas/infogram-bot)
     - Simple bot for fast identifying chat metadata, for further using it in
       different services (e.g. **Zabbix, Jenkins, Github Actions**, etc).
@@ -42,14 +42,15 @@ technologies and other interesing things.
 1. [Disgrant](https://github.com/rustbas/disgrant/)
     - Deployment VMs via **Vagrant** and configuration via **Ansible**.
     - Demonstration how speeds up project build with remote compilers.
-    - All configs described in code (*Vagrantfile*, *Ansible playbooks*)
+    - **IaaC**: All configs described in code (*Vagrantfile*, *Ansible
+      playbooks*).
 2. [Django example app](https://github.com/rustbas/django-example-app)
     - Implementation **CI/CD** pipeline with linters, tests, builds and deploys
       using GitHub Actions and Jenkins.
     - Notification via Telegram API and Github Actions.
 3. [Systemd unit example](https://github.com/rustbas/systemd-unit-example/)
     - Monitoring the state of the target process.
-    - Notification with API with `curl`.
+    - Working or notification with API with `curl`.
     - Install script for easy deployment.
 
 ### Programming 
